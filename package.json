@@ -1,10 +1,10 @@
 {
-  "name": "polymer-starter-kit",
+  "name": "digital-web-component-library",
   "version": "4.0.0",
   "description": "A starting point for Polymer apps",
   "author": "The Polymer Authors",
   "license": "BSD-3-Clause",
-  "repository": "Polymer/polymer-starter-kit",
+  "repository": "",
   "scripts": {
     "start": "polymer serve",
     "build": "polymer build",
